@@ -1,0 +1,27 @@
+
+#controls-panel {
+    left: 16px;
+    top: 84px;
+    position: absolute;
+    padding: 8px;
+
+    color: white;
+    background-color: var(--panel-bg-color);
+    border-radius: 8px;
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
+
+.controls-panel-button {
+    border-radius: 8px;
+    padding: 4px 8px;
+    font-size: 14px;
+}
+
+.controls-panel-button:hover {
+    background-color: var(--nav-bar-button-hover-bg-color);
+    color: var(--nav-bar-button-hover-color);
+    cursor: pointer;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>数字应天门</title>
+		<link rel="stylesheet" href="styles/style.css">
+		<link rel="stylesheet" href="styles/controls.css">
+		<link rel="shortcut icon" type="image/png" href="images/icon.png">
+	</head>
+	<body>
+		<div id="panels-container">
+			<div id="nav-bar" class="on-screen-panel">
+				<p id="site-title">数字应天门</p>
+				<a class="nav-bar-button nav-bar-button-selected" id="model-button">三维重建</a>
+				<a class="nav-bar-button nav-bar-button-unselected" id="knowledge-graph-button">知识图谱</a>
+			</div>
+			<div id="controls-panel" class="on-screen-panel">
+				<div class="controls-panel-button" id="reset-view-button">重置</div>
+				<div class="controls-panel-button" id="zoom-in-button">缩小</div>
+				<div class="controls-panel-button" id="zoom-out-button">放大</div>
+			</div>
+		</div>
+
+		<div id="view">
+		</div>
+
+		<script type="module" src="view-model/src/modelScene.js"></script>
+	</body>
+</html>

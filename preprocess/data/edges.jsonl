@@ -1,0 +1,47 @@
+{"id": "1763", "src": "430", "dst": "429", "label": "Aarauer Bierdeckel (cc) Bergues", "type": "cc"}
+{"id": "1762", "src": "430", "dst": "428", "label": "Aarauer Bierdeckel (cc) Chimay", "type": "cc"}
+{"id": "1761", "src": "430", "dst": "427", "label": "Aarauer Bierdeckel (cc) Fiumorbu", "type": "cc"}
+{"id": "1760", "src": "430", "dst": "426", "label": "Aarauer Bierdeckel (cr) Beaujolais", "type": "cr"}
+{"id": "1758", "src": "430", "dst": "424", "label": "Aarauer Bierdeckel (cw) California Sauvignon Blanc", "type": "cw"}
+{"id": "1757", "src": "430", "dst": "423", "label": "Aarauer Bierdeckel (cw) Vouvray sec", "type": "cw"}
+{"id": "1756", "src": "422", "dst": "421", "label": "Abbaye de Belloc (cc) Berkswell", "type": "cc"}
+{"id": "1755", "src": "422", "dst": "420", "label": "Abbaye de Belloc (cc) Le Moulis", "type": "cc"}
+{"id": "1753", "src": "422", "dst": "418", "label": "Abbaye de Belloc (cc) Vermont Shepherd", "type": "cc"}
+{"id": "1752", "src": "422", "dst": "417", "label": "Abbaye de Belloc (cc) Zamorano", "type": "cc"}
+{"id": "1751", "src": "422", "dst": "416", "label": "Abbaye de Belloc (cr) California Zinfandel", "type": "cr"}
+{"id": "1748", "src": "422", "dst": "424", "label": "Abbaye de Belloc (cw) California Sauvignon Blanc", "type": "cw"}
+{"id": "1676", "src": "407", "dst": "394", "label": "Vacherin Fribourgeois (cw) Alsatian Riesling", "type": "cw"}
+{"id": "1674", "src": "402", "dst": "401", "label": "Afuega'l Pitu (cc) Queso de los Beyos", "type": "cc"}
+{"id": "1671", "src": "402", "dst": "405", "label": "Afuega'l Pitu (cr) California Merlot", "type": "cr"}
+{"id": "1670", "src": "402", "dst": "398", "label": "Afuega'l Pitu (cr) Cotes-du-Rhone", "type": "cr"}
+{"id": "1666", "src": "402", "dst": "394", "label": "Afuega'l Pitu (cw) Alsatian Riesling", "type": "cw"}
+{"id": "1665", "src": "401", "dst": "402", "label": "Queso de los Beyos (cc) Afuega'l Pitu", "type": "cc"}
+{"id": "1661", "src": "401", "dst": "416", "label": "Queso de los Beyos (cr) California Zinfandel", "type": "cr"}
+{"id": "1660", "src": "401", "dst": "339", "label": "Queso de los Beyos (cw) Albarino", "type": "cw"}
+{"id": "1658", "src": "401", "dst": "360", "label": "Queso de los Beyos (cw) Sauvignon Blanc", "type": "cw"}
+{"id": "1657", "src": "401", "dst": "380", "label": "Queso de los Beyos (cw) Tokay Pinot Gris", "type": "cw"}
+{"id": "1656", "src": "393", "dst": "392", "label": "Aisy Cendre (cc) Affidelice", "type": "cc"}
+{"id": "1655", "src": "393", "dst": "391", "label": "Aisy Cendre (cc) Epoisses", "type": "cc"}
+{"id": "1654", "src": "393", "dst": "390", "label": "Aisy Cendre (cc) Soumaintrain", "type": "cc"}
+{"id": "1652", "src": "393", "dst": "389", "label": "Aisy Cendre (cr) California Cabernet Sauvignon", "type": "cr"}
+{"id": "1651", "src": "393", "dst": "405", "label": "Aisy Cendre (cr) California Merlot", "type": "cr"}
+{"id": "1650", "src": "393", "dst": "388", "label": "Aisy Cendre (cw) Argentinian Torrontes", "type": "cw"}
+{"id": "1649", "src": "393", "dst": "387", "label": "Aisy Cendre (cw) Italian Chardonnay", "type": "cw"}
+{"id": "1648", "src": "393", "dst": "411", "label": "Aisy Cendre (cw) White Burgundy", "type": "cw"}
+{"id": "1647", "src": "390", "dst": "219", "label": "Soumaintrain (cc) Brillat-Savarin", "type": "cc"}
+{"id": "1646", "src": "390", "dst": "309", "label": "Soumaintrain (cc) Coulommiers", "type": "cc"}
+{"id": "1645", "src": "390", "dst": "391", "label": "Soumaintrain (cc) Epoisses", "type": "cc"}
+{"id": "1644", "src": "390", "dst": "192", "label": "Soumaintrain (cc) Langres", "type": "cc"}
+{"id": "1643", "src": "390", "dst": "280", "label": "Soumaintrain (cc) Munster", "type": "cc"}
+{"id": "1642", "src": "390", "dst": "339", "label": "Soumaintrain (cw) Albarino", "type": "cw"}
+{"id": "1641", "src": "390", "dst": "381", "label": "Soumaintrain (cw) Gruner Veltliner", "type": "cw"}
+{"id": "1640", "src": "390", "dst": "297", "label": "Soumaintrain (cw) Vouvray demi sec", "type": "cw"}
+{"id": "1639", "src": "390", "dst": "411", "label": "Soumaintrain (cw) White Burgundy", "type": "cw"}
+{"id": "1638", "src": "386", "dst": "385", "label": "Appenzeller (cc) Prattigauer", "type": "cc"}
+{"id": "1637", "src": "386", "dst": "384", "label": "Appenzeller (cc) Torgenburger", "type": "cc"}
+{"id": "1635", "src": "386", "dst": "389", "label": "Appenzeller (cr) California Cabernet Sauvignon", "type": "cr"}
+{"id": "1634", "src": "386", "dst": "405", "label": "Appenzeller (cr) California Merlot", "type": "cr"}
+{"id": "1631", "src": "386", "dst": "381", "label": "Appenzeller (cw) Gruner Veltliner", "type": "cw"}
+{"id": "1630", "src": "386", "dst": "380", "label": "Appenzeller (cw) Tokay Pinot Gris", "type": "cw"}
+{"id": "1629", "src": "385", "dst": "386", "label": "Prattigauer (cc) Appenzeller", "type": "cc"}
+{"id": "1628", "src": "385", "dst": "200", "label": "Prattigauer (cc) Bundner Alpkase", "type": "cc"}

@@ -1,0 +1,82 @@
+:root {
+    --site-title-color: rgb(255, 180, 100);
+    --panel-bg-color: rgb(60, 60, 60);
+    --nav-bar-button-color: rgb(200, 200, 200);
+    --nav-bar-button-border-radius: 18px;
+    --nav-bar-button-hover-bg-color: rgb(193, 193, 193);
+    --nav-bar-button-hover-color: black;
+    --nav-bar-height: 36px;
+}
+
+
+html {
+    font-family: 'Microsoft YaHei';
+    font-size: 16px;
+    line-height: 1.15;
+}
+
+body {
+    margin: 0;
+}
+
+#nav-bar {
+    position: absolute;
+    display: flex;
+    /* margin: 16px; */
+    top: 16px;
+    left: 16px;
+    padding: 8px;
+    font-size: 16px;
+    height: var(--nav-bar-height);
+}
+
+.on-screen-panel {
+    color: white;
+    position: absolute;
+    background-color: var(--panel-bg-color);
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 1);
+    border-radius: 8px;
+}
+
+.nav-bar-button {
+    font-family: 'STKaiti', serif;
+    background-color: rgb(31, 31, 31);
+    vertical-align: middle;
+    padding: 8px 16px;
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--nav-bar-button-color);
+}
+
+.nav-bar-button-unselected:hover {
+    background-color: var(--nav-bar-button-hover-bg-color);
+    color: var(--nav-bar-button-hover-color);
+    cursor: pointer;
+}
+
+.nav-bar-button-selected {
+    background-color: rgb(45, 45, 45);
+}
+
+#model-button {
+    border-radius: var(--nav-bar-button-border-radius) 0 0 var(--nav-bar-button-border-radius);
+}
+
+#knowledge-graph-button {
+    border-radius: 0 var(--nav-bar-button-border-radius) var(--nav-bar-button-border-radius) 0;
+}
+
+#site-title {
+    color: var(--site-title-color);
+    font-weight: 1000;
+    font-family: 'STKaiti', serif;
+    font-size: 30px;
+    height: var(--nav-bar-height);
+    padding: 0px 16px;
+    margin: 0px;
+    vertical-align: middle;
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}

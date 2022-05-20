@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset=utf-8 />
+
+    <title>数字应天门</title>
+    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="stylesheet" href="./styles/controls.css">
+    <link rel="stylesheet" href="./styles/graph.css">
+    <link rel="stylesheet" href="./styles/info_panel.css">
+
+    <link rel="shortcut icon" type="image/png" href="../images/icon.png">
+  </head>
+  <body>
+    <div id="panels-container">
+      <div id="nav-bar" class="on-screen-panel">
+        <p id="site-title">数字应天门</p>
+        <a class="nav-bar-button nav-bar-button-unselected" id="model-button">三维重建</a>
+        <a class="nav-bar-button nav-bar-button-selected" id="knowledge-graph-button">知识图谱</a>
+      </div>
+      <div id="controls-panel" class="on-screen-panel">
+        <div class="controls-panel-button" id="reset-view-button">重置</div>
+        <div class="controls-panel-button" id="zoom-in-button">缩小</div>
+        <div class="controls-panel-button" id="zoom-out-button">放大</div>
+      </div>
+      <div id="info-panel">
+        <div id="info-title">【标题】</div>
+        <div id="info-type">【类型】</div>
+        <div id="info-image-container">
+          <img id="info-image" src="" alt="【图片】"/>
+        </div>
+        <div id="info-content">【内容】</div>
+      </div>
+      <div id="search-panel">
+        <div id="search-bar-container">
+          <input id="search-input"></input>
+          <button id="search-button">搜索</button>
+        </div>
+        <div id="search-result-container"></div>
+      </div>
+    </div>
+
+    <canvas id="graph-view">
+
+    </canvas>
+
+    <div id="large-image-container">
+      <button id="large-image-close-button">关闭</button>
+      <img id="large-image">
+    </div>
+
+    <script type="module" src="view-graph/src/graph.js"></script>
+    <script type="module" src="view-graph/src/canvas.js"></script>
+  </body>
+</html>
